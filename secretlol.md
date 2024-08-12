@@ -8,7 +8,7 @@ This page is focused for Bedrock Edition of Minecraft. However it can be used fo
 :::
 
 
-## Methods
+<!-- ## Methods
 
 There are different ways to crack Minecraft and they are said [**in the Glossary here**](/windows/minecraft-for-windows#minecraft-for-windows). These methods are specifically done by softwares/programs. Lets now define all these methods and what they mean.
 
@@ -22,7 +22,7 @@ As in the glossary, you can see that:
 As you have read, DRC, DMM and DLL Hooking runs and change in-memory/RAM. This means, the changes are done in the game's process leading it to be temporary (requiring for activating every time) and only work for Minecraft. But these methods are different from I-MCM and pre-cracked [**appx**](https://fileinfo.com/extension/appx).The way these 2 works is patching the license checking code with in the game. (in meaning, it removes the code where Minecraft checks for license). **I-MCM** patches the license checking code within the game's memory, making it temporary. The main differnce between I-MCM and DMM is that I-MCM can run while Minecraft is open but cant with DMM.\
 Also, you can patch the game's code completely and pack it in a `.appx` and you can install it and then you dont need to do anything else. 
 
-There is an other method using ClipSVC, we will define that later.
+There is an other method using ClipSVC, we will define that later. -->
 
 # How Minecraft for Windows is Cracked/Patched
 
@@ -59,7 +59,7 @@ Watch the video below to do it:
 
 <iframe width="420" height="315" src="https://youtube.com/embed/h2W6vzLN8Fg"></iframe> 
 
-## Extra Methods
+<!-- ## Extra Methods
 
 ### ClipSVC
 
@@ -68,4 +68,4 @@ Watch the video below to do it:
 **`ClipSVC`**, or the Client License Service is a Windows service related to Microsoft Store. It takes care of managing and protecting digital content from the Microsoft Store, like apps and games, to make sure they follow licensing rules and digital rights management (DRM). ClipSVC is used in the process of checking the license, so disabling it will basically break every single licensing systems and no process related to it can be run. In meaning, you could force stop ClipSVC and get apps for free. But since it breaks Minecraft completely too, you will need to other steps.\
 **Runtime Broker** makes sure Minecraft follows its licensing rules and security settings. Sine this is there, you will have to End Task it at the correct time, which is when Minecraft buffers loading at 46%. And as I have said, this breaks Minecraft and MS Store, and it even could lead to system errors and crashes
 
-**And that's all! You have learnt how it works, and later on, I might plan to add new things to this page!**
+**And that's all! You have learnt how it works, and later on, I might plan to add new things to this page!**   -->
